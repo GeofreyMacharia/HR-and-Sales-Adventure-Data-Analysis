@@ -22,7 +22,7 @@ Trends from both datasets were explored using pivot tables, then visualized and 
 ![HR Data Shot](https://github.com/user-attachments/assets/d7df70fd-a214-40db-8b3f-bae0188ada8e)
 
 ## Sales Dashboard
-![Sales Data SHot (1)](https://github.com/user-attachments/assets/3af05f6a-3fff-455e-9d05-eba38267fd9c)
+![sales dashboard](https://github.com/user-attachments/assets/8f00396a-3589-4be8-8fe3-e54b62fe3d91)
 
 
 
